@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Janoshkin, 2nd year software engineering student at JAMK Jyväskylä University of Applied Sciences
 - :cupid: I’m interested in hardcore music, forests and lakes surrounding me, sports, games, code, styling, code, code and code. 
-- :sparkles: I’m currently learning Next.js, React Native, styling more smooth especially with SASS
-- :speech_balloon: How to reach me: ask me for a coffee or send me a message janoshkin@protonmail.com
+- :sparkles: I’m currently learning Next.js, React Native, styling more smooth especially with SASS. Also learning agile development skills.
+- :speech_balloon: How to reach me: ask me for a dark roast coffee or send me a message janoshkin@protonmail.com
 - :fox_face: My [Gitlab](https://gitlab.labranet.jamk.fi/N2927) profile (mainly school projects)
 
 <!---
