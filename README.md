@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Janoshkin, 2nd year software engineering student at JAMK University of Applied Sciences
+- 👋 Hi, I’m @Janoshkin, 3rd year software engineering student at JAMK University of Applied Sciences
 - :cupid: I’m interested in hardcore music, forests and lakes surrounding me, sports, games, code, styling, code, code and code. 
 - :sparkles: I’m currently learning C#, Python, Next.js, React Native, styling more smooth especially with SASS. Cyber security too. This summer's biggest thing is learning agile development skills.
 - :speech_balloon: How to reach me: ask me for dark roast coffee or send me a message janoshkin@protonmail.com
