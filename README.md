@@ -3,7 +3,7 @@
 
 
 👋 
-Hi, I’m @Janoshkin, 3rd year software engineering student at JAMK University of Applied Sciences, living in Finland
+Hi, I’m @Janoshkin, 3rd year software engineering student at JAMK University of Applied Sciences, living in Finland.
   
 :sparkles:
 I’m currently focusing on learning mobile development with React, React Native and Vue as well as ASP.NET and TypeScript.
