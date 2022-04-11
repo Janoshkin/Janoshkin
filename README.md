@@ -6,7 +6,7 @@
 Hi, I’m @Janoshkin, software engineering student at JAMK University of Applied Sciences, living in Finland.
   
 :sparkles:
-I’m currently focusing on learning TypeScript, React and databases.
+I’m currently focusing on learning TypeScript, React and databases. Also always Sass and C#.
 
 :speech_balloon:
 How to reach me: ask me for dark roast coffee or send me a message janoshkin@protonmail.com
